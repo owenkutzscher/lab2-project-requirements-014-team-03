@@ -2,8 +2,13 @@
 starting group proj
 
 Team 03
-Team member name : github username
+
+### Team member name : github username
+
 Owen Kutzscher : owenkutzscher
+
 Harley Ewert : harley616
+
 Leo Su : 037Leo0101
+
 Brandon Schuster : Brandon-Schuster
